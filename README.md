@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="(https://www.linkedin.com/in/isabeljohnson06)">
+  <a href="https://www.linkedin.com/in/isabeljohnson06">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -17,7 +17,7 @@ I'm a Intelligent Process Automation (IPA) specialists <img src="https://media.g
 <br />
 ⚡ In my free time I solve problems on [Kaggle](https://www.kaggle.com/isabeljohnson001)🖥💻**
 <br />
-📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-johnson-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/kakbar](https://www.linkedin.com/in/isabeljohnson06))
+📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-johnson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabeljohnson06)
 
 **🛠  Languages and Tools :**
 <br/>
