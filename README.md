@@ -15,7 +15,7 @@ I'm a Intelligent Process Automation (IPA) specialists <img src="https://media.g
 <br/>
 🌱 I like reading articles.
 <br />
-⚡ In my free time I solve problems on [Kaggle](https://www.kaggle.com/isabeljohnson001)🖥💻**
+###⚡ In my free time I solve problems on [Kaggle](https://www.kaggle.com/isabeljohnson001)🖥💻**
 <br />
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-johnson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabeljohnson06)
 
@@ -39,7 +39,6 @@ I'm a Intelligent Process Automation (IPA) specialists <img src="https://media.g
 
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isabeljohnson001&layout=compact)](https://github.com/isabeljohnson001/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -----
 
 **✍️ Blog Posts :**
