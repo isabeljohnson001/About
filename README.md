@@ -34,9 +34,10 @@ I'm a Intelligent Process Automation (IPA) specialists <img src="https://media.g
 **My Github stats**
 <br/>
 [![Isabel Johnson Github stats](https://github-readme-stats.vercel.app/api?username=isabeljohnson001)](https://github.com/isabeljohnson001/github-readme-stats)
-
+<br/>
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isabeljohnson001&layout=compact)](https://github.com/isabeljohnson001/github-readme-stats)
-
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isabeljohnson001&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 -----
 
 **✍️ Blog Posts :**
