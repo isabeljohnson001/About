@@ -14,6 +14,7 @@ I'm a Intelligent Process Automation (IPA) specialists <img src="https://media.g
 <br />
 <br/>
 🌱 I like reading articles.
+<br />
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-johnson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabeljohnson06)
 
 **🛠  Languages and Tools :**
