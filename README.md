@@ -13,8 +13,6 @@
 I'm a Intelligent Process Automation (IPA) specialists <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> involved in automating business processes using advanced technologies such as Artificial Intelligence (AI), Robotic Process Automation (RPA), and Machine Learning (ML) and make data speak.
 <br />
 <br/>
-🌱 I like reading articles.
-<br />
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-johnson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabeljohnson06)
 
 **🛠  Languages and Tools :**
