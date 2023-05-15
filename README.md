@@ -10,11 +10,7 @@
 
 **👩‍💻  About Me :**
 <br/>
-👨‍💻 I am a software developer specialized in Full Stack and .NET, currently working on projects that involve Machine Learning (ML).
-
-💻 With expertise in both front-end and back-end development, I have a strong understanding of how to build robust and scalable software systems.
-
-🧠 Additionally, I leverage ML technologies to enhance data-driven decision making and create intelligent solutions.
+I am a software developer specialized in Full Stack and .NET, currently working on projects that involve Machine Learning (ML).💻 With expertise in both front-end and back-end development, I have a strong understanding of how to build robust and scalable software systems.🧠 Additionally, I leverage ML technologies to enhance data-driven decision making and create intelligent solutions.
 <br />
 <br/>
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-johnson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabeljohnson06)
