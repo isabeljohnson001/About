@@ -10,7 +10,11 @@
 
 **👩‍💻  About Me :**
 <br/>
-I'm a Intelligent Process Automation (IPA) specialists <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> involved in automating business processes using advanced technologies such as Artificial Intelligence (AI), Robotic Process Automation (RPA), and Machine Learning (ML) and make data speak.
+👨‍💻 I am a software developer specialized in Full Stack and .NET, currently working on projects that involve Machine Learning (ML).
+
+💻 With expertise in both front-end and back-end development, I have a strong understanding of how to build robust and scalable software systems.
+
+🧠 Additionally, I leverage ML technologies to enhance data-driven decision making and create intelligent solutions.
 <br />
 <br/>
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-johnson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabeljohnson06)
