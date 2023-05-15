@@ -39,7 +39,7 @@ I'm a Intelligent Process Automation (IPA) specialists <img src="https://media.g
 
 **✍️ Blog Posts :**
 
-COMING SOON
+- [Understanding Credit Card Usage Patterns: Insights from Cluster Analysis](https://medium.com/@isabeljohnson06/understanding-credit-card-usage-patterns-insights-from-cluster-analysis-66761a3da9a2)
 
 
 
