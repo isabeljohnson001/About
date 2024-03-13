@@ -13,21 +13,45 @@
 I am a software developer specializing in Full Stack and Java,.NET, currently working on projects that involve Machine Learning (ML).💻 With expertise in both front-end and back-end development, I have a strong understanding of how to build robust and scalable software systems.🧠 Additionally, I leverage ML technologies to enhance data-driven decision-making and create intelligent solutions.
 <br />
 <br/>
-📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-johnson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isabeljohnson06)
+📫 How to reach me: &nbsp; 
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/isabeljohnson06/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="isabeljohnson06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 **🛠  Languages and Tools :**
-<br/>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"  title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"  title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
 </div>
-<br/>
+
+###
 
 **My Github stats**
 <br/>
