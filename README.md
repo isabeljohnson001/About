@@ -31,8 +31,6 @@ I am a software developer specializing in Full Stack and Java,.NET, currently wo
 
 **My Github stats**
 <br/>
-[![Isabel Johnson Github stats](https://github-readme-stats.vercel.app/api?username=isabeljohnson001)](https://github.com/isabeljohnson001/github-readme-stats)
-
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isabeljohnson001&layout=compact)](https://github.com/isabeljohnson001/github-readme-stats)
 
 -----
